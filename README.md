@@ -15,7 +15,7 @@ Este codigo  implementa un verificador de restricción basado en el uso del pico
   - Jueves: 7, 8
   - Viernes: 9, 0
 
-## Cómo usar el código
+## Có¿omo usar el código
 1. Asegúrate de tener Python instalado en tu sistema
 2. Descarga o clona este repositorio
 3. Navega a la carpeta del proyecto en tu terminal
