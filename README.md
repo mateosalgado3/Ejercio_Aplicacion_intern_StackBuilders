@@ -1,4 +1,4 @@
-# Pico y Placa Ejercicoc
+# Pico y Placa Ejercicio
 
 Este codigo  implementa un verificador de restricción basado en el uso del pico y placa del vehículo, la fecha y la hora
 
